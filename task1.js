@@ -5,4 +5,3 @@ function repl(params) {
     return res;
 }
 console.log(repl(add))
-console.log(repl(str))
